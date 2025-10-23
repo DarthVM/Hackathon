@@ -11,6 +11,7 @@
 *.sln.docstates
 *.env
 .idea
+CMakeLists.txt
 
 
 # User-specific files (MonoDevelop/Xamarin Studio)
